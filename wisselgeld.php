@@ -9,8 +9,7 @@ define("GELDEENHEDEN", [
     5, 
     2, 
     1
-    ]
-);
+]);
 
 $restbedrag = $bedrag;
 
