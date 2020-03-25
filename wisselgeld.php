@@ -2,14 +2,16 @@
 $input = $argv[1];
 $bedrag = intval($input);
 
-define("GELDEENHEDEN", [
+define("GELDEENHEDEN",
+[
     50, 
     20,
     10, 
     5, 
     2, 
     1
-]);
+    ]
+);
 
 $restbedrag = $bedrag;
 
